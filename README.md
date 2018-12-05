@@ -1,0 +1,2 @@
+# Share-files-over-internet-with-this-php-code
+This is a php code to share files over the internet using domian or IP address of the system where the source code is hosted. It makes sharing files over the internet or set up wifi connection. To achieve sharing of files beyond the minimum post file size, adjust the php ini configuration in your php configuration file to your desired minimum file size.
